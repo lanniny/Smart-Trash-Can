@@ -1,0 +1,43 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: 
+train: C:/Users/17850/Desktop/ultralytics-main/mydata/YOLO_data/images/train
+val: C:/Users/17850/Desktop/ultralytics-main/mydata/YOLO_data/images/val
+test: C:/Users/17850/Desktop/ultralytics-main/mydata/YOLO_data/images/test
+# number of classes
+nc: 31
+
+# class names
+names:
+  0: shitou
+  1: cipian
+  2: yaodai
+  3: yaowan
+  4: dianchi
+  5: tudou
+  6: bailuobo
+  7: huluobo
+  8: zhuankuai
+  9: yilaguan
+  10: pingzi
+  11: cipianbei
+  12: shitoubai
+  13: mangguo
+  14: huanggua
+  15: guozi
+  16: qiezi
+  17: lajiao
+  18: xiaoyaowan
+  19: xihongshi
+  20: lizi
+  21: yantou
+  22: guopi
+  23: lssc
+  24: juzi
+  25: lanping
+  26: jn
+  27: hcp
+  28: gzj
+  29: yp
+  30: ypg
+
+
+
